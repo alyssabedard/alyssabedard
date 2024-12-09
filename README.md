@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+<img src="assets/maomao-cursed-dancing-celebrate.gif" width="25%" align="right" />
 
-<!--
-**alyssabedard/alyssabedard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D6B6FD&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81I'm+Aly." alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+<br><br>
+<pre>
+    💜 Language Learning • Tech
+    💬/📚 Français, English, 中文, <span align="right">العربية</span>, 日本語
+</pre>
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+    
+
+[![](https://img.shields.io/badge/Bonjour-alyssabedard.com-e8cbf4)](https://alyssabedard.com)
+
+</div>
+
