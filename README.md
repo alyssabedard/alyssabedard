@@ -12,8 +12,8 @@
 # Repos
 ## Language Learning Tools
 - [mpv2anki](https://github.com/alyssabedard/mpv2anki) Create flashcards from videos in Anki
-- [Hanzi2Ruby](https://github.com/alyssabedard/Hanzi2Ruby) Basic Anki add-on that adds Pinyin/Zhuyin (Jyutping/Xiao'erjing [_in progress_] ) readings for Chinese characters in any field
-- [Hanzi2Ruby-notetype](https://github.com/alyssabedard/Hanzi2Ruby-notetype) Anki note type for [Hanzi2Ruby](https://github.com/alyssabedard/Hanzi2Ruby)
+- [Hanzi2Pinyin](https://github.com/alyssabedard/Hanzi2Pinyin) Basic Anki add-on that adds Pinyin/Zhuyin (Jyutping/Xiao'erjing [_in progress_] ) readings for Chinese characters in any field
+- [Hanzi2Pinyin-notetype](https://github.com/alyssabedard/Hanzi2Pinyin-notetype) Anki note type for [Hanzi2Pinyin](https://github.com/alyssabedard/Hanzi2Pinyin)
 - [RetroKeAi](https://github.com/alyssabedard/RetroKeAi) [_in progress_] Cute retro Anki note types for language learning
 - [harakat](https://github.com/alyssabedard/harakat) [_in progress_] Anki add-on that adds Arabic diacritics and romanization to Arabic text
 - [yoyochinese-web-scraper](https://github.com/alyssabedard/yoyochinese-web-scraper)  Web scraper for YoYoChinese users to create flashcards
