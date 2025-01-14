@@ -12,7 +12,6 @@
 # Repos
 ## Language Learning Tools
 - [mpv2anki](https://github.com/alyssabedard/mpv2anki) Create flashcards from videos in Anki
-- [mpv2anki-notetype](https://github.com/alyssabedard/mpv2anki-notetype) Anki note type for [mpv2anki](https://github.com/alyssabedard/mpv2anki)
 - [Hanzi2Pinyin](https://github.com/alyssabedard/Hanzi2Pinyin) Basic Anki add-on that adds Pinyin/Zhuyin (Jyutping/Xiao'erjing [_in progress_] ) readings for Chinese characters in any field
 - [Hanzi2Pinyin-notetype](https://github.com/alyssabedard/Hanzi2Pinyin-notetype) Anki note type for [Hanzi2Pinyin](https://github.com/alyssabedard/Hanzi2Pinyin)
 - [harakat](https://github.com/alyssabedard/harakat) [_in progress_] Anki add-on that adds Arabic diacritics and romanization to Arabic text
