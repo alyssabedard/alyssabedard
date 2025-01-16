@@ -1,10 +1,10 @@
 <div align="center">
-
-<img src="assets/maomao-cursed-dancing-celebrate.gif" width="25%" align="center" />
+<br>
+<img src="assets/maomao-flowers.gif" width="90%" align="center" />
 <br><br>
 
-[![Discord](https://img.shields.io/badge/Web-alyssabedard.com-c2bded?style=for-the-badge&labelColor=grey)](https://alyssabedard.com)
-![Discord](https://img.shields.io/badge/Discord-aly888-5865F2?style=for-the-badge&labelColor=grey&logo=discord&logoColor=white)
+[![Web](https://img.shields.io/badge/Web-alyssabedard.com-4A8482?style=for-the-badge&labelColor=grey)](https://alyssabedard.com)
+![Discord](https://img.shields.io/badge/Discord-aly888-D7478D?style=for-the-badge&labelColor=grey&logo=discord&logoColor=white)
 
 </div>
 
@@ -24,4 +24,7 @@
 - [GradVek](https://github.com/team-gradvek/gradvek)  An integrated knowledge graph tool to identify adverse events across similar drug targets
 
 
-
+<div align="center">
+<br>
+<img src="assets/maomao-cursed-dancing-celebrate.gif" width="25%" align="center" />
+</div>
