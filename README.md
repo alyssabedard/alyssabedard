@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<img src="assets/maomao-flowers-3.png" width="90%" align="center" />
+<img src="assets/maomao-flowers-3.png" width="100%" align="center" />
 <br><br>
 
 [![Web](https://img.shields.io/badge/Web-alyssabedard.com-4A8482?style=for-the-badge&labelColor=grey)](https://alyssabedard.com)
